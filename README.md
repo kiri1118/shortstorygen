@@ -1,1 +1,4 @@
-Collaborative effort between Ben, Eric, Stepan, and Lida for the final project of CSC413.
+Collaborative effort between Ben, Eric, Stepan, and Lida.
+
+
+The report contains more details about the project.
